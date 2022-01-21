@@ -2,7 +2,7 @@
 - 👀 I’m interested in making video games and making music
 - 🌱 I’m currently learning basic-ass C#
 - 💞️ I’m looking to collaborate on video games and music--vocalist trained in opera, rock, and music theater
-- 📫 How to reach me: When I'm ready, I'll out something here >.<
+- 📫 When I'm ready, I'll put something here >.<
 
 <!---
 hapa-magic/hapa-magic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
